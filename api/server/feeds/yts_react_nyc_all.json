@@ -1,0 +1,851 @@
+{
+    "channel": "react_nyc",
+    "channel_id": "UC87H0RRqawG6I7oWAf9i48g",
+    "data": [
+        {
+            "id": "yVNULzIkxCI",
+            "title": "Virtual Reality on the Web with React 360 - Veekas Shrivastava",
+            "href": "https://www.youtube.com/watch?v=yVNULzIkxCI",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "7FRHuVNVCj4",
+            "title": "Making Beats with React - Ken Wheeler & Aaron Cordova",
+            "href": "https://www.youtube.com/watch?v=7FRHuVNVCj4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "m1XdasrstCc",
+            "title": "Double your salary with this one simple trick - Matthew Gerstman",
+            "href": "https://www.youtube.com/watch?v=m1XdasrstCc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "mbiryVTIJ4Q",
+            "title": "My Coding Journey - Revel Carlberg West",
+            "href": "https://www.youtube.com/watch?v=mbiryVTIJ4Q",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "QUXHCF5YfIA",
+            "title": "ReactNYC: fJ9rUzIMcZQ LIVE",
+            "href": "https://www.youtube.com/watch?v=QUXHCF5YfIA",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "33m9LuCUrlo",
+            "title": "ReactNYC: Tribute to Angular LIVE",
+            "href": "https://www.youtube.com/watch?v=33m9LuCUrlo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "wMHakitT7U0",
+            "title": "ReactNYC: E0l50z-5RHw LIVE",
+            "href": "https://www.youtube.com/watch?v=wMHakitT7U0",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "co_IUlLRaPM",
+            "title": "ReactNYC: VHoT4N43jK8 LIVE",
+            "href": "https://www.youtube.com/watch?v=co_IUlLRaPM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "BWnBmoZK2iM",
+            "title": "ReactNYC September 20",
+            "href": "https://www.youtube.com/watch?v=BWnBmoZK2iM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Z7ysKNFrMqo",
+            "title": "Get inside the React source code - Nir Kaufman @ ReactNYC",
+            "href": "https://www.youtube.com/watch?v=Z7ysKNFrMqo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "CcaLydz12pQ",
+            "title": "ReactNYC: DpMfP6qUSBo LIVE",
+            "href": "https://www.youtube.com/watch?v=CcaLydz12pQ",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "s06Z_e8ac0Y",
+            "title": "React and the FLIP Technique - Alex Holachek @ ReactNYC",
+            "href": "https://www.youtube.com/watch?v=s06Z_e8ac0Y",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "XJNCuHdK2cE",
+            "title": "Serverless And React - Marina Miranovich @ ReactNYC",
+            "href": "https://www.youtube.com/watch?v=XJNCuHdK2cE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "p_md9SZEKV8",
+            "title": "ReactNYC - Using Finite State Machines To Develop Your React App - Lucas Reis (@iamlucasmreis)",
+            "href": "https://www.youtube.com/watch?v=p_md9SZEKV8",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "QPeToRBcybw",
+            "title": "ReactNYC - Introduction to TypeScript - Daniel Rosenwasser (@drosenwasser)",
+            "href": "https://www.youtube.com/watch?v=QPeToRBcybw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "ZZoB5frlcnE",
+            "title": "ReactNYC - Why React Is *Not* Reactive - Shawn Wang (@swyx)",
+            "href": "https://www.youtube.com/watch?v=ZZoB5frlcnE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "o8THlN8hgcw",
+            "title": "ReactNYC - Front-End Architecture 101 - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=o8THlN8hgcw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "sv15DOJHqWE",
+            "title": "ReactNYC - React Components In Vanilla JavaScript With And Without JSX - Jeff Hatcher",
+            "href": "https://www.youtube.com/watch?v=sv15DOJHqWE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "0GF67B5H3dc",
+            "title": "ReactNYC - MobX: Performance and Sanity - Adam Klein (@adamklein500)",
+            "href": "https://www.youtube.com/watch?v=0GF67B5H3dc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "cPOjkVEh6CU",
+            "title": "ReactNYC: BC2dRkm8ATU LIVE",
+            "href": "https://www.youtube.com/watch?v=cPOjkVEh6CU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "zR_LDPLMUvE",
+            "title": "ReactNYC - Mainly on Scrollytelling - Jason Kao (@jsonkao)",
+            "href": "https://www.youtube.com/watch?v=zR_LDPLMUvE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "pZJ9CrlPH68",
+            "title": "ReactNYC - A/B Component Testing in the land of Virtual DOM - James Villarrubia",
+            "href": "https://www.youtube.com/watch?v=pZJ9CrlPH68",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "BqcIA4EH1EU",
+            "title": "ReactNYC - Conquering Lighthouse - Kurt Mackey (@mrkurt)",
+            "href": "https://www.youtube.com/watch?v=BqcIA4EH1EU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "DTrs5kIdeDk",
+            "title": "ReactNYC - Active Record In Javascript - Matthew Chang",
+            "href": "https://www.youtube.com/watch?v=DTrs5kIdeDk",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "xTHR0IN1c6s",
+            "title": "ReactNYC: P_SlAzsXa7E LIVE",
+            "href": "https://www.youtube.com/watch?v=xTHR0IN1c6s",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "k_kIXwjKkJ8",
+            "title": "ReactNYC - Building a Server-Rendered React App Using Next.js - Abe Rubenstein (@sighrobot)",
+            "href": "https://www.youtube.com/watch?v=k_kIXwjKkJ8",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "La0zLAE7Y98",
+            "title": "ReactNYC - Creating a React / Redux App Generator - Aaron Cordova",
+            "href": "https://www.youtube.com/watch?v=La0zLAE7Y98",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "yf5wT2fRgEM",
+            "title": "ReactNYC: HyHNuVaZJ LIVE",
+            "href": "https://www.youtube.com/watch?v=yf5wT2fRgEM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "dwvON5lniV8",
+            "title": "ReactNYC - My First React Native Component - Julian Gutierrez Ferrara",
+            "href": "https://www.youtube.com/watch?v=dwvON5lniV8",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "WTY09KAyDvc",
+            "title": "ReactNYC - Learning React Native as a Junior Engineer - Erin Fox (@erinfoox)",
+            "href": "https://www.youtube.com/watch?v=WTY09KAyDvc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "QXh1O-qD_IU",
+            "title": "ReactNYC - Design patterns & React. Memento - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=QXh1O-qD_IU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "8oFJPVOT7FU",
+            "title": "ReactNYC - Building React Websites and Apps with Markdown - Guillermo Rauch (@rauchg)",
+            "href": "https://www.youtube.com/watch?v=8oFJPVOT7FU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "81_p6PSu064",
+            "title": "ReactNYC - ClojureScript: A Great Place for React - Jorge Colindres",
+            "href": "https://www.youtube.com/watch?v=81_p6PSu064",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Df1gat_R7O4",
+            "title": "ReactNYC - Enter Context - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=Df1gat_R7O4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "nEkdB5t2Zxw",
+            "title": "ReactNYC: bpOSxM0rNPM LIVE",
+            "href": "https://www.youtube.com/watch?v=nEkdB5t2Zxw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "0QE5xb9s6mM",
+            "title": "ReactNYC - A Practical Introduction to Service Workers in React - Veekas Shrivastava (@veekas)",
+            "href": "https://www.youtube.com/watch?v=0QE5xb9s6mM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Et571vTAtT8",
+            "title": "ReactNYC - Creating create-react-app - Shawn Wang (@swyx)",
+            "href": "https://www.youtube.com/watch?v=Et571vTAtT8",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "gIyHL6gvMWE",
+            "title": "ReactNYC - Thunk + Observable: They can be friends? - Ian Stewart (@ianmstew)",
+            "href": "https://www.youtube.com/watch?v=gIyHL6gvMWE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "N1yqq9Az_XY",
+            "title": "ReactNYC - Simple React Patterns - Lucas Reis (@iamlucasmreis)",
+            "href": "https://www.youtube.com/watch?v=N1yqq9Az_XY",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "eRvbh5C6Lj0",
+            "title": "ReactNYC - React Suspense - Shawn Wang (@swyx)",
+            "href": "https://www.youtube.com/watch?v=eRvbh5C6Lj0",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "_gAb3fcRdDs",
+            "title": "ReactNYC - Error Boundaries In Real Life - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=_gAb3fcRdDs",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "MwLJCrchfnY",
+            "title": "ReactNYC - Reading, \\'​Riting and React - Rachel Cohen (@rfcinnyc)",
+            "href": "https://www.youtube.com/watch?v=MwLJCrchfnY",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "kXX7k8mY6VU",
+            "title": "ReactNYC - Everything is NSFW: Security Concerns for Modern SPA - Derek Misler (@derekmisler)",
+            "href": "https://www.youtube.com/watch?v=kXX7k8mY6VU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "G_Yw_I3JUrA",
+            "title": "ReactNYC: P9mybTArlsk LIVE",
+            "href": "https://www.youtube.com/watch?v=G_Yw_I3JUrA",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "zRkkn7_51Mg",
+            "title": "ReactNYC - Get up to speed on Storybook - Dominic Nguyen (@domyen)",
+            "href": "https://www.youtube.com/watch?v=zRkkn7_51Mg",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "QktkzXZNsG0",
+            "title": "ReactNYC - React Portals - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=QktkzXZNsG0",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "R_NENZ1AkvQ",
+            "title": "ReactNYC - Logux: Redux Actions On The Server - Andrey Sitnik (@sitnikcode)",
+            "href": "https://www.youtube.com/watch?v=R_NENZ1AkvQ",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "RPu05MqbG8A",
+            "title": "ReactNYC: NsDYV9ZQjbI LIVE",
+            "href": "https://www.youtube.com/watch?v=RPu05MqbG8A",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "VIOaYnhlMzA",
+            "title": "ReactNYC: YERtJ-5wlhM LIVE",
+            "href": "https://www.youtube.com/watch?v=VIOaYnhlMzA",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "kkRyjXDpYqg",
+            "title": "ReactNYC - Functional Programming Fundamentals - Matthew Gerstman (@MatthewGerstman)",
+            "href": "https://www.youtube.com/watch?v=kkRyjXDpYqg",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "R6pSelWatP0",
+            "title": "ReactNYC: AjI2J2SQ528 LIVE",
+            "href": "https://www.youtube.com/watch?v=R6pSelWatP0",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Eb2wy-HNGMo",
+            "title": "ReactNYC - Rebuilding react-select - Jed Watson (@jedwatson)",
+            "href": "https://www.youtube.com/watch?v=Eb2wy-HNGMo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "VFW8HYDwjxw",
+            "title": "ReactNYC - Chat Bots, React, and a Cucumber - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=VFW8HYDwjxw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "LbXffTjfkHM",
+            "title": "ReactNYC - Five Minutes for JavaScript - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=LbXffTjfkHM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "j05cljfKVQI",
+            "title": "ReactNYC - Lazy Loading Images in ReactJS - Mike Tsamis",
+            "href": "https://www.youtube.com/watch?v=j05cljfKVQI",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "sor04XNuYBs",
+            "title": "ReactNYC - Form and Fury: inside a redux-form Implementation - Joe Stanco (@JoeStanco)",
+            "href": "https://www.youtube.com/watch?v=sor04XNuYBs",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "d8oBIzIgVMA",
+            "title": "ReactNYC - Painless Migration From Backbone to React/Redux - Jim Sullivan",
+            "href": "https://www.youtube.com/watch?v=d8oBIzIgVMA",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "nl8VVig_9aM",
+            "title": "ReactNYC - Tools For Measuring React Performance - Brenda Jimenez (@bitreverie)",
+            "href": "https://www.youtube.com/watch?v=nl8VVig_9aM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "rPuwZJEA-9U",
+            "title": "ReactNYC - Never Bundle React Again - Shawn Wang (@swyx)",
+            "href": "https://www.youtube.com/watch?v=rPuwZJEA-9U",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "YvXRDaP030s",
+            "title": "ReactNYC - Components as Data  - Orjiewuru Kingdom (@kingsaac95)",
+            "href": "https://www.youtube.com/watch?v=YvXRDaP030s",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "iOTFnHJvTVw",
+            "title": "ReactNYC - Contribution to Open Source - Ethan Arrowood (@ArrowoodTech)",
+            "href": "https://www.youtube.com/watch?v=iOTFnHJvTVw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "3lZ2l3lYVOc",
+            "title": "ReactNYC - Demystifying That Regex Stuff - Shannon Kendall (@snkendall_)",
+            "href": "https://www.youtube.com/watch?v=3lZ2l3lYVOc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "JUuic7mEs-s",
+            "title": "ReactNYC - Advanced Redux Patterns - Nir Kaufman (@nirkaufman)",
+            "href": "https://www.youtube.com/watch?v=JUuic7mEs-s",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "TxMqcNPkn98",
+            "title": "ReactNYC - React 16: What’s new - Harry Wolff (@hswolff)",
+            "href": "https://www.youtube.com/watch?v=TxMqcNPkn98",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "y8b57Y5Q1s4",
+            "title": "ReactNYC - Improving Performance of Your React Components - Mallory Bulkley (@mallorybulkley)",
+            "href": "https://www.youtube.com/watch?v=y8b57Y5Q1s4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "GWCcZ6fnpn4",
+            "title": "ReactNYC - Contributing To React - Shawn Wang (@swyx)",
+            "href": "https://www.youtube.com/watch?v=GWCcZ6fnpn4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "6IC6lDZ44-Y",
+            "title": "ReactNYC - (Almost) Write Once, Run Everywhere with React - Nathan Kane",
+            "href": "https://www.youtube.com/watch?v=6IC6lDZ44-Y",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "NgyKe9ejcnw",
+            "title": "ReactNYC - JSDom & Enzyme: Different Test Styles for React Apps - Dan La Feir",
+            "href": "https://www.youtube.com/watch?v=NgyKe9ejcnw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "LjNXPjGzM8o",
+            "title": "ReactNYC - Building Dynamic Ads with React Native  - Eric Silverberg",
+            "href": "https://www.youtube.com/watch?v=LjNXPjGzM8o",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "vyO5wKHlWZg",
+            "title": "ReactNYC - Making The DOM Declarative - Michael Jackson (@mjackson)",
+            "href": "https://www.youtube.com/watch?v=vyO5wKHlWZg",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "2Vhy5188Msc",
+            "title": "ReactNYC - Razzle: SSR Without The Framework - Jared Palmer (@jaredpalmer)",
+            "href": "https://www.youtube.com/watch?v=2Vhy5188Msc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "7ZR3b37aK8k",
+            "title": "ReactNYC - Visual Testing For Component Libraries - Dominic Nguyen (@domyen)",
+            "href": "https://www.youtube.com/watch?v=7ZR3b37aK8k",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "bFdmhgh5x8Y",
+            "title": "ReactNYC - Migrating from Angular to React - Erik Duindam",
+            "href": "https://www.youtube.com/watch?v=bFdmhgh5x8Y",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Np8n_fFHMT4",
+            "title": "ReactNYC - Firebase+React: Build Great Things Fast - Trey Granderson (@treygrander)",
+            "href": "https://www.youtube.com/watch?v=Np8n_fFHMT4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Kz5HMIVgWK0",
+            "title": "ReactNYC - All about GRAND Stack: GraphQL, React, Apollo, and Neo4j - William Lyon (@lyonwj)",
+            "href": "https://www.youtube.com/watch?v=Kz5HMIVgWK0",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "_v0ghxbncoY",
+            "title": "ReactNYC - Bringing Components to Legacy Code - Wesley de Souza (@WesleydeSouza)",
+            "href": "https://www.youtube.com/watch?v=_v0ghxbncoY",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "zCzInkZu38I",
+            "title": "ReactNYC - Mobile Dev Tries To Create A React Native App - Alfonso Cejudo",
+            "href": "https://www.youtube.com/watch?v=zCzInkZu38I",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "-72P4ii-z0Q",
+            "title": "ReactNYC - React, Node, and Machine Learning - Suz Hinton",
+            "href": "https://www.youtube.com/watch?v=-72P4ii-z0Q",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "sKUvC1axdN4",
+            "title": "ReactNYC - Benchpress your Legacy Applications With React - Harry Wolff",
+            "href": "https://www.youtube.com/watch?v=sKUvC1axdN4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "_uUaU84XNtQ",
+            "title": "ReactNYC - Building Modern Media Experiences in React Apps  - Prosper Otemuyiwa",
+            "href": "https://www.youtube.com/watch?v=_uUaU84XNtQ",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "v1uJjYYvEPw",
+            "title": "React NYC - JavaScript Styles in React: The Good Parts - Robert Concepción",
+            "href": "https://www.youtube.com/watch?v=v1uJjYYvEPw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Su2WVAGEIwo",
+            "title": "React NYC - Reacting to Audio  - Kyle Burke",
+            "href": "https://www.youtube.com/watch?v=Su2WVAGEIwo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "L_aKvdZd84o",
+            "title": "React NYC - React + Omniscient: Enhancing Performance with Immutable Data Structures - Erin Depew",
+            "href": "https://www.youtube.com/watch?v=L_aKvdZd84o",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "SCkUxx4NjUA",
+            "title": "ReactNYC - Storybook: a visual testing environment for React - Christian Cho & Rocky Meza",
+            "href": "https://www.youtube.com/watch?v=SCkUxx4NjUA",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "F7iwWpeqiTE",
+            "title": "ReactNYC - Getting started with GraphQL and React  - Tim Specht",
+            "href": "https://www.youtube.com/watch?v=F7iwWpeqiTE",
+            "duration": " - Duration: 28 minutes.",
+            "views": "49 views",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "hJEG9nagNkQ",
+            "title": "ReactNYC - Augmenting Reality with ARKit and React Viro - Raj Advani",
+            "href": "https://www.youtube.com/watch?v=hJEG9nagNkQ",
+            "duration": " - Duration: 21 minutes.",
+            "views": "154 views",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "YMuigDra88M",
+            "title": "ReactNYC - Server Side Rendering with GraphQL - James Baxley",
+            "href": "https://www.youtube.com/watch?v=YMuigDra88M",
+            "duration": " - Duration: 18 minutes.",
+            "views": "299 views",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "-tDy7ds0dag",
+            "title": "ReactNYC - Formik - Jared Palmer",
+            "href": "https://www.youtube.com/watch?v=-tDy7ds0dag",
+            "duration": " - Duration: 25 minutes.",
+            "views": "249 views",
+            "active": false,
+            "watched": true
+        },
+        {
+            "id": "wPJxmZx62gI",
+            "title": "ReactNYC - The Road to Router v4  - Ryan Florence",
+            "href": "https://www.youtube.com/watch?v=wPJxmZx62gI",
+            "duration": " - Duration: 44 minutes.",
+            "views": "288 views",
+            "active": false,
+            "watched": true
+        },
+        {
+            "id": "tr7-ap36KF0",
+            "title": "ReactNYC - Ryan Florence Rocks!",
+            "href": "https://www.youtube.com/watch?v=tr7-ap36KF0",
+            "duration": " - Duration: 4 minutes, 35 seconds.",
+            "views": "424 views",
+            "active": false,
+            "watched": true
+        }
+    ],
+    "title": "React NYC",
+    "description": "The most underrated React channel on YouTube.",
+    "customUrl": "reactnyc",
+    "publishedAt": "2017-08-15T14:12:12.000Z",
+    "thumbnails": {
+        "default": {
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDTFwTtXt30csPYoTCMJ5x3PzHp1zyBy8eFfw=s88-mo-c-c0xffffffff-rj-k-no",
+            "width": 88,
+            "height": 88
+        },
+        "medium": {
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDTFwTtXt30csPYoTCMJ5x3PzHp1zyBy8eFfw=s240-mo-c-c0xffffffff-rj-k-no",
+            "width": 240,
+            "height": 240
+        },
+        "high": {
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDTFwTtXt30csPYoTCMJ5x3PzHp1zyBy8eFfw=s800-mo-c-c0xffffffff-rj-k-no",
+            "width": 800,
+            "height": 800
+        }
+    },
+    "contentDetails": {
+        "relatedPlaylists": {
+            "uploads": "UU87H0RRqawG6I7oWAf9i48g",
+            "watchHistory": "HL",
+            "watchLater": "WL"
+        }
+    },
+    "statistics": {
+        "viewCount": "130711",
+        "commentCount": "0",
+        "subscriberCount": "2641",
+        "hiddenSubscriberCount": false,
+        "videoCount": "82"
+    }
+}

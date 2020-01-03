@@ -1,0 +1,1040 @@
+{
+    "channel": "google_tech_talks",
+    "channel_id": "UCtXKDgv1AVoG88PLl8nGXmw",
+    "data": [
+        {
+            "id": "QTDyAO61D2k",
+            "title": "Blockly Developer Summit 2018: How to Develop in Core Blockly",
+            "href": "https://www.youtube.com/watch?v=QTDyAO61D2k",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "nsNEUM4kk_s",
+            "title": "Blockly Developer Summit 2018: How to Write a Good Pull Request",
+            "href": "https://www.youtube.com/watch?v=nsNEUM4kk_s",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "g3kJ46bT_Kk",
+            "title": "Blockly Developer Summit 2018: edublocks.org",
+            "href": "https://www.youtube.com/watch?v=g3kJ46bT_Kk",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "e-81K9PDHCI",
+            "title": "Blockly Developer Summit 2018: SpheroEDU",
+            "href": "https://www.youtube.com/watch?v=e-81K9PDHCI",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "B5XYrlBClHo",
+            "title": "Blockly Developer Summit 2018: Show and Tell of New Features for Blockly",
+            "href": "https://www.youtube.com/watch?v=B5XYrlBClHo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "nXP7OKDCk4Y",
+            "title": "Blockly Developer Summit 2018: Tips for Creating a Block Language with Blockly",
+            "href": "https://www.youtube.com/watch?v=nXP7OKDCk4Y",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "1w3SwzWrWnk",
+            "title": "Blockly Developer Summit 2018: Blockly on Mobile Devices",
+            "href": "https://www.youtube.com/watch?v=1w3SwzWrWnk",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "iPeiCRaE3uM",
+            "title": "Blockly Developer Summit 2018: Localizing Blocks and Apps",
+            "href": "https://www.youtube.com/watch?v=iPeiCRaE3uM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "vNbWA7Mfw6I",
+            "title": "Blockly Developer Summit 2018: Where Are We Going?",
+            "href": "https://www.youtube.com/watch?v=vNbWA7Mfw6I",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "RkueM-_6L7A",
+            "title": "Blockly Developer Summit 2018: Welcome and The History of Blockly",
+            "href": "https://www.youtube.com/watch?v=RkueM-_6L7A",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "5mcXm1Tg80I",
+            "title": "Confidentiality In A Post Quantum World: the case of LEDAkem and LEDApkc",
+            "href": "https://www.youtube.com/watch?v=5mcXm1Tg80I",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "ZZkjy81lL8Q",
+            "title": "Perception Cues For Social Platforms",
+            "href": "https://www.youtube.com/watch?v=ZZkjy81lL8Q",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "t2yrFfv96tI",
+            "title": "Fully Dynamic k-Center Clustering",
+            "href": "https://www.youtube.com/watch?v=t2yrFfv96tI",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "x55UPBSH8vE",
+            "title": "Dynamic Incentive-aware Learning:  Robust Pricing in Contextual Auctions",
+            "href": "https://www.youtube.com/watch?v=x55UPBSH8vE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "diMwaCbVW8E",
+            "title": "An Interior Point Solver for Large Block Angular Optimization Problems",
+            "href": "https://www.youtube.com/watch?v=diMwaCbVW8E",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "YXOdVKJ_y1w",
+            "title": "Coordinated Exploration in Concurrent Reinforcement Learning",
+            "href": "https://www.youtube.com/watch?v=YXOdVKJ_y1w",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "xjvYmpQxuhQ",
+            "title": "Apache Airflow Meetup: Challenges and Opportunities Ahead",
+            "href": "https://www.youtube.com/watch?v=xjvYmpQxuhQ",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "zhIhx5iH_lI",
+            "title": "Apache Airflow Meetup: Elegant Data Pipelining with Apache Airflow",
+            "href": "https://www.youtube.com/watch?v=zhIhx5iH_lI",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "qUwz20v7lcc",
+            "title": "Apache Airflow Meetup: Testing in Airflow",
+            "href": "https://www.youtube.com/watch?v=qUwz20v7lcc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Uu9WE35L8tg",
+            "title": "Apache Airflow Meetup: Functional Yet Cost-effective Data Engineering With Airflow",
+            "href": "https://www.youtube.com/watch?v=Uu9WE35L8tg",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "P5ilmD8_eys",
+            "title": "Apache Airflow Meetup: Airbender - Combining Kubernetes, Airflow, and Github",
+            "href": "https://www.youtube.com/watch?v=P5ilmD8_eys",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "-7aslbQDGSY",
+            "title": "Apache Airflow Meetup: Apache Airflow to the Rescue - Repairing Broken Data",
+            "href": "https://www.youtube.com/watch?v=-7aslbQDGSY",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "F2i-AgEqM4w",
+            "title": "Apache Airflow Meetup: Airflow and Kubernetes",
+            "href": "https://www.youtube.com/watch?v=F2i-AgEqM4w",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "SpRfpJiLMv4",
+            "title": "Apache Airflow Meetup: Introduction and Running Airflow as a Managed Service",
+            "href": "https://www.youtube.com/watch?v=SpRfpJiLMv4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "3WIhXjMYR_U",
+            "title": "Ordered Optimization Problems",
+            "href": "https://www.youtube.com/watch?v=3WIhXjMYR_U",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "lCVNqUprumU",
+            "title": "Two stage Pandora’s Box for Product Ranking",
+            "href": "https://www.youtube.com/watch?v=lCVNqUprumU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "lMp6CPAEpEs",
+            "title": "Building a Safer Driver Experience with Waze",
+            "href": "https://www.youtube.com/watch?v=lMp6CPAEpEs",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "a0aVCOM_cQ8",
+            "title": "Translating Accessibility Research into Accessibility Practice",
+            "href": "https://www.youtube.com/watch?v=a0aVCOM_cQ8",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "dhTVVWzpc4Q",
+            "title": "Google Production Environment",
+            "href": "https://www.youtube.com/watch?v=dhTVVWzpc4Q",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "6bX6iqqR3XY",
+            "title": "kinX: Keyboard Hacking",
+            "href": "https://www.youtube.com/watch?v=6bX6iqqR3XY",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "j55sKY9Nb40",
+            "title": "Five Steps to improve Heart Health, Avoid Diabetes, and Feel Great",
+            "href": "https://www.youtube.com/watch?v=j55sKY9Nb40",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "pxC2pciLl04",
+            "title": "Post and Beyond Lithium-Ion Materials and Cells for Electrochemical Energy Storage",
+            "href": "https://www.youtube.com/watch?v=pxC2pciLl04",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "-Lhmr9vqjrE",
+            "title": "Prediction with a Short Memory",
+            "href": "https://www.youtube.com/watch?v=-Lhmr9vqjrE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "voB1vrXb_Qo",
+            "title": "Maxmin Fairness in Bargaining",
+            "href": "https://www.youtube.com/watch?v=voB1vrXb_Qo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "wGNtxDBF-Js",
+            "title": "The Power of Theory in the Practice of Hashing with Focus on Similarity Estimation",
+            "href": "https://www.youtube.com/watch?v=wGNtxDBF-Js",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "_nFy0imSU0U",
+            "title": "Optical Coherence Tomography Imaging Analysis for Retinal Disease",
+            "href": "https://www.youtube.com/watch?v=_nFy0imSU0U",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "h7RygOL4EmM",
+            "title": "Turning Stars into Gold: How Las Cumbres Observatory Helped Start a Revolution in Astronomy",
+            "href": "https://www.youtube.com/watch?v=h7RygOL4EmM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "zqpWNvDhNQo",
+            "title": "GTAC 2016: Day 2 Keynote",
+            "href": "https://www.youtube.com/watch?v=zqpWNvDhNQo",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "d7nAGI_NZPk",
+            "title": "The Paxos Algorithm",
+            "href": "https://www.youtube.com/watch?v=d7nAGI_NZPk",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "qk-cGtDEkVQ",
+            "title": "The Subtour LP for the Traveling Salesman Problem",
+            "href": "https://www.youtube.com/watch?v=qk-cGtDEkVQ",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "cDW4pWu4BbQ",
+            "title": "Co-designing with Kids in Baltimore through Low- and High-Tech Techniques",
+            "href": "https://www.youtube.com/watch?v=cDW4pWu4BbQ",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "WyhdA9vd_CI",
+            "title": "Simple Pricing Schemes for the Cloud",
+            "href": "https://www.youtube.com/watch?v=WyhdA9vd_CI",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "aC-6hg_h3EA",
+            "title": "AQC 2016 - Max-k-SAT, Multi-Body Frustration, & Multi-Body Sampling on a Two Local Ising System",
+            "href": "https://www.youtube.com/watch?v=aC-6hg_h3EA",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Ip7zakWF0CM",
+            "title": "GTAC 2016: Day 1 Opening Remarks",
+            "href": "https://www.youtube.com/watch?v=Ip7zakWF0CM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "cPE577X4kIY",
+            "title": "Validity Based Testing",
+            "href": "https://www.youtube.com/watch?v=cPE577X4kIY",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "uYrDrMEGu58",
+            "title": "State of golang.org/x/text",
+            "href": "https://www.youtube.com/watch?v=uYrDrMEGu58",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "6EO4vHOAQAs",
+            "title": "On Computing Min-Degree Elimination Orderings",
+            "href": "https://www.youtube.com/watch?v=6EO4vHOAQAs",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "nHrLKCyyF30",
+            "title": "Fast, Deterministic, and Sparse Dimensionality Reduction",
+            "href": "https://www.youtube.com/watch?v=nHrLKCyyF30",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "FWYBz0jLyGs",
+            "title": "Revenue Maximization with an Uncertainty-Averse Buyer",
+            "href": "https://www.youtube.com/watch?v=FWYBz0jLyGs",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "6N4B3bbPTOE",
+            "title": "AQC 2016 - A Quantum-Assisted Algorithm for Sampling Applications in Machine Learning",
+            "href": "https://www.youtube.com/watch?v=6N4B3bbPTOE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "-N3ivAUACZg",
+            "title": "Surviving Without Generics",
+            "href": "https://www.youtube.com/watch?v=-N3ivAUACZg",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "h4qnM8ThNDM",
+            "title": "Go In Your Browser",
+            "href": "https://www.youtube.com/watch?v=h4qnM8ThNDM",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "jHaIJ40VgE4",
+            "title": "Sidewalks Get Personal: A Pedestrian-Centered Approach for Equitable Urban Wayfinding",
+            "href": "https://www.youtube.com/watch?v=jHaIJ40VgE4",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "-8ITJzN4KdU",
+            "title": "GTAC 2016: \\'Can you hear me?\\' - Surviving Audio Quality Testing",
+            "href": "https://www.youtube.com/watch?v=-8ITJzN4KdU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Hj5NT6suxtk",
+            "title": "AQC 2016 - Simulated Quantum Annealing Can Be Exponentially Faster Than Classical",
+            "href": "https://www.youtube.com/watch?v=Hj5NT6suxtk",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "CTU8XShgorE",
+            "title": "Introduction to the Java Memory Model",
+            "href": "https://www.youtube.com/watch?v=CTU8XShgorE",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "Vf7axkwtTOw",
+            "title": "GTAC 2016 - Day 1 Keynote",
+            "href": "https://www.youtube.com/watch?v=Vf7axkwtTOw",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "6LcM4rgfBRc",
+            "title": "When the Optimum is also Blind: A New Perspective on Universal Optimization",
+            "href": "https://www.youtube.com/watch?v=6LcM4rgfBRc",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "UUfXWzp0-DU",
+            "title": "Flutter's Rendering Pipeline",
+            "href": "https://www.youtube.com/watch?v=UUfXWzp0-DU",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "dkyY9WCGMi0",
+            "title": "The Mahogany Staircase - Flutter's Layered Design",
+            "href": "https://www.youtube.com/watch?v=dkyY9WCGMi0",
+            "duration": "-",
+            "views": "-",
+            "active": true,
+            "watched": false
+        },
+        {
+            "id": "jw-BXvAtnjY",
+            "title": "AQC 2016 - Controlled Interactions Between Superconducting Qubits for Adiabatic Quantum Simulations",
+            "href": "https://www.youtube.com/watch?v=jw-BXvAtnjY",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "NI7I8ezo1go",
+            "title": "Deferred-Acceptance Auctions: Worst-Case Approximation Guarantees",
+            "href": "https://www.youtube.com/watch?v=NI7I8ezo1go",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "RvOkJbzvm68",
+            "title": "A Framework for Interactive Learning",
+            "href": "https://www.youtube.com/watch?v=RvOkJbzvm68",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "D3SSzmhkVG8",
+            "title": "The Limit of Rationality in Choice Modeling",
+            "href": "https://www.youtube.com/watch?v=D3SSzmhkVG8",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "df2_72wjEdw",
+            "title": "Programming Line-Rate Routers",
+            "href": "https://www.youtube.com/watch?v=df2_72wjEdw",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "QfTkf3SqyFo",
+            "title": "AQC 2016 - Building Quantum Annealer v2.0",
+            "href": "https://www.youtube.com/watch?v=QfTkf3SqyFo",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "t8BPaY06XCo",
+            "title": "AQC 2016 - Quantum Monte  Carlo vs Tunneling vs. Adiabatic Optimization",
+            "href": "https://www.youtube.com/watch?v=t8BPaY06XCo",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "x1LFbDQhbso",
+            "title": "Grammatical Framework: Formalizing the Grammars of the World",
+            "href": "https://www.youtube.com/watch?v=x1LFbDQhbso",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "YTaNkWjd-ac",
+            "title": "ZuriHac 2016: Monad Homomorphisms",
+            "href": "https://www.youtube.com/watch?v=YTaNkWjd-ac",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "khSsjjg2eSQ",
+            "title": "GTAC 2016: Need for Speed - Accelerate Automation Tests From 3 Hours to 3 Minutes",
+            "href": "https://www.youtube.com/watch?v=khSsjjg2eSQ",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "kgMWommXxU8",
+            "title": "AQC 2016 - Roadmap for Building a Quantum Computer",
+            "href": "https://www.youtube.com/watch?v=kgMWommXxU8",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "YILfnhUeT7E",
+            "title": "AQC - 2016 Quantum vs. Classical Optimization - A Status Report on the Arms Race",
+            "href": "https://www.youtube.com/watch?v=YILfnhUeT7E",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "CrzpkF1-VsA",
+            "title": "GTAC 2016: How Flaky Tests in Continuous Integration",
+            "href": "https://www.youtube.com/watch?v=CrzpkF1-VsA",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "xpOq-IzqQhM",
+            "title": "GTAC 2016: Using Formal Concept Analysis in Software Testing",
+            "href": "https://www.youtube.com/watch?v=xpOq-IzqQhM",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "NTbukEJPI8Q",
+            "title": "GTAC 2016: Automating Telepresence Robot Driving",
+            "href": "https://www.youtube.com/watch?v=NTbukEJPI8Q",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "aAFakYN-dpg",
+            "title": "AQC 2016 - Testing Adiabatic Quantum Computers Using Simple Quantum Simulation",
+            "href": "https://www.youtube.com/watch?v=aAFakYN-dpg",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "NVuFWl1UcQQ",
+            "title": "What is in Common Between Quantum Computer and Solar System?",
+            "href": "https://www.youtube.com/watch?v=NVuFWl1UcQQ",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "86x0_-JGlGQ",
+            "title": "Simulating the Quantum World on a Classical Computer",
+            "href": "https://www.youtube.com/watch?v=86x0_-JGlGQ",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "HTbRkvzFaY4",
+            "title": "AQC 2016 - Parity Adiabatic Quantum Computing",
+            "href": "https://www.youtube.com/watch?v=HTbRkvzFaY4",
+            "duration": "-",
+            "views": "-",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "09RVX85Ljhw",
+            "title": "deBGR: An Efficient and Near Exact Representation of the Weighted deBruijn Graph",
+            "href": "https://www.youtube.com/watch?v=09RVX85Ljhw",
+            "duration": " - Duration: 1 hour.",
+            "views": "442 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "o6HBIGzQfJs",
+            "title": "Thompson Sampling for Learning in Online Decision Making",
+            "href": "https://www.youtube.com/watch?v=o6HBIGzQfJs",
+            "duration": " - Duration: 59 minutes.",
+            "views": "336 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "TlC1pDXVdSI",
+            "title": "Deep Neural Networks in Medical Imaging and Radiology",
+            "href": "https://www.youtube.com/watch?v=TlC1pDXVdSI",
+            "duration": " - Duration: 1 hour, 2 minutes.",
+            "views": "901 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "uEdx-pqJg4I",
+            "title": "Zerocash: Addressing Bitcoin\\'s Privacy Problem",
+            "href": "https://www.youtube.com/watch?v=uEdx-pqJg4I",
+            "duration": " - Duration: 1 hour, 18 minutes.",
+            "views": "1,434 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "opeM2s_RuVk",
+            "title": "Randomized Online Matching in Regular Graphs",
+            "href": "https://www.youtube.com/watch?v=opeM2s_RuVk",
+            "duration": " - Duration: 53 minutes.",
+            "views": "1,196 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "HvjI4vG0Qno",
+            "title": "Bernoulli Factories and Blackbox Reductions",
+            "href": "https://www.youtube.com/watch?v=HvjI4vG0Qno",
+            "duration": " - Duration: 1 hour, 8 minutes.",
+            "views": "1,034 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "oBH3vtyvRC8",
+            "title": "Applications of Strongly Rayleigh Measures in Counting and Optimization",
+            "href": "https://www.youtube.com/watch?v=oBH3vtyvRC8",
+            "duration": " - Duration: 59 minutes.",
+            "views": "819 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "OdygEF_UQ_g",
+            "title": "Multi-armed Bandit Problems with Strategic Arms",
+            "href": "https://www.youtube.com/watch?v=OdygEF_UQ_g",
+            "duration": " - Duration: 53 minutes.",
+            "views": "1,187 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "K491hk48Q4g",
+            "title": "Computational Aspects of Optimal Information Revelation",
+            "href": "https://www.youtube.com/watch?v=K491hk48Q4g",
+            "duration": " - Duration: 47 minutes.",
+            "views": "1,131 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "G_F6l2-jrs8",
+            "title": "Learning from Untrusted Data",
+            "href": "https://www.youtube.com/watch?v=G_F6l2-jrs8",
+            "duration": " - Duration: 56 minutes.",
+            "views": "1,207 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "jk6oiBJxcaA",
+            "title": "Practical Load Balancing with Consistent Hashing",
+            "href": "https://www.youtube.com/watch?v=jk6oiBJxcaA",
+            "duration": " - Duration: 35 minutes.",
+            "views": "1,963 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "0V5D1ZnfqXE",
+            "title": "Hardness of Approximation Between P and NP",
+            "href": "https://www.youtube.com/watch?v=0V5D1ZnfqXE",
+            "duration": " - Duration: 50 minutes.",
+            "views": "1,327 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "_b5fE1oavQM",
+            "title": "Assortment Optimization Under a Mixture of Mallows Distribution Over Preferences",
+            "href": "https://www.youtube.com/watch?v=_b5fE1oavQM",
+            "duration": " - Duration: 1 hour, 4 minutes.",
+            "views": "1,031 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "9EXMk45Jn0o",
+            "title": "JamBoard: The Future of Collaboration at Google and the Enterprise",
+            "href": "https://www.youtube.com/watch?v=9EXMk45Jn0o",
+            "duration": " - Duration: 1 hour.",
+            "views": "3,554 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "5N7QS5vP68o",
+            "title": "2017 Google Networking Research Summit Keynote Talks",
+            "href": "https://www.youtube.com/watch?v=5N7QS5vP68o",
+            "duration": " - Duration: 54 minutes.",
+            "views": "4,064 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "31jp0JArI_8",
+            "title": "Large-Scale Distributed Virtual World Systems",
+            "href": "https://www.youtube.com/watch?v=31jp0JArI_8",
+            "duration": " - Duration: 1 hour.",
+            "views": "3,041 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "Krk8fA2U7rc",
+            "title": "Technology for Today\\'s Conservationist",
+            "href": "https://www.youtube.com/watch?v=Krk8fA2U7rc",
+            "duration": " - Duration: 51 minutes.",
+            "views": "1,191 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "wi19uS4JFJ4",
+            "title": "Theory, Practice, and Standardization of Eye-tracking Technology",
+            "href": "https://www.youtube.com/watch?v=wi19uS4JFJ4",
+            "duration": " - Duration: 46 minutes.",
+            "views": "5,019 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "ezwOHAo3O_k",
+            "title": "ADHD - Understanding the Superpowers Within",
+            "href": "https://www.youtube.com/watch?v=ezwOHAo3O_k",
+            "duration": " - Duration: 1 hour, 30 minutes.",
+            "views": "6,091 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "uomMdBdEwnk",
+            "title": "Interpretable Models of Antibiotic Resistance with the Set Covering Machine Algorithm",
+            "href": "https://www.youtube.com/watch?v=uomMdBdEwnk",
+            "duration": " - Duration: 50 minutes.",
+            "views": "2,247 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "W8nHgTFSWow",
+            "title": "Where Are the Stars? See How Light Pollution Affects Night Skies",
+            "href": "https://www.youtube.com/watch?v=W8nHgTFSWow",
+            "duration": " - Duration: 55 minutes.",
+            "views": "2,821 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "8FvrBLWUwxc",
+            "title": "Crystal: Fast as C, Slick as Ruby",
+            "href": "https://www.youtube.com/watch?v=8FvrBLWUwxc",
+            "duration": " - Duration: 59 minutes.",
+            "views": "8,147 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "WC0Z7-Cp7LI",
+            "title": "Esperanto: What, Why, How",
+            "href": "https://www.youtube.com/watch?v=WC0Z7-Cp7LI",
+            "duration": " - Duration: 42 minutes.",
+            "views": "2,205 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "lDIBG8C2aOU",
+            "title": "Don Norman and Mick McManus on \\'Design in the Age of AI: A design debate\\'",
+            "href": "https://www.youtube.com/watch?v=lDIBG8C2aOU",
+            "duration": " - Duration: 1 hour, 20 minutes.",
+            "views": "4,761 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "QNDzTubyXC4",
+            "title": "Rejuvenating the Mitochondria",
+            "href": "https://www.youtube.com/watch?v=QNDzTubyXC4",
+            "duration": " - Duration: 45 minutes.",
+            "views": "11,757 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "6GCDfoAOKIY",
+            "title": "Building Software at Google Scale: Bazel",
+            "href": "https://www.youtube.com/watch?v=6GCDfoAOKIY",
+            "duration": " - Duration: 34 minutes.",
+            "views": "7,332 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "kTMjqdfVptc",
+            "title": "GTAC 2016: Closing Remarks",
+            "href": "https://www.youtube.com/watch?v=kTMjqdfVptc",
+            "duration": " - Duration: 4 minutes, 59 seconds.",
+            "views": "403 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "j-b-SdIi8Lk",
+            "title": "GTAC 2016: How I learned to Crash Test a Server",
+            "href": "https://www.youtube.com/watch?v=j-b-SdIi8Lk",
+            "duration": " - Duration: 14 minutes.",
+            "views": "1,256 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "FzaR3iH2iZs",
+            "title": "GTAC 2016: Finding Bugs in C++ Libraries Using LibFuzzer",
+            "href": "https://www.youtube.com/watch?v=FzaR3iH2iZs",
+            "duration": " - Duration: 16 minutes.",
+            "views": "1,816 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "MkPHntWZAPc",
+            "title": "GTAC2016: Scale vs Value - Test Automation at the BBC",
+            "href": "https://www.youtube.com/watch?v=MkPHntWZAPc",
+            "duration": " - Duration: 21 minutes.",
+            "views": "1,252 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "8tjsxxSMkpA",
+            "title": "GTAC 2016: Integration Testing with Multiple Mobile Devices and Services",
+            "href": "https://www.youtube.com/watch?v=8tjsxxSMkpA",
+            "duration": " - Duration: 26 minutes.",
+            "views": "914 views",
+            "active": false,
+            "watched": false
+        },
+        {
+            "id": "V7fhx1i4qPE",
+            "title": "GTAC 2016: ClusterRunner - Making Fast Test-feedback Easy Through Horizontal Scaling",
+            "href": "https://www.youtube.com/watch?v=V7fhx1i4qPE",
+            "duration": " - Duration: 17 minutes.",
+            "views": "627 views",
+            "active": false,
+            "watched": false
+        }
+    ],
+    "title": "GoogleTechTalks",
+    "description": "Google Tech Talks is a grass-roots program at Google for sharing information of interest to the technical community.  At its best, it's part of an ongoing discussion about our world featuring top experts in diverse fields.  Presentations range from the broadest of perspective overviews to the most technical of deep dives, on topics well-established to wildly speculative.\n\nDisclaimer:  Google TechTalks are designed to disseminate a wide spectrum of views on topics including Current Affairs, Science, Medicine, Engineering, Business, Humanities, Law, Entertainment, and the Arts.  The views or opinions expressed by the guest speakers are solely their own and do not necessarily represent the views or opinions of Google, Inc.\n\nCredits:  The original title animation and theme were created by Nick Thomas.  The mid-2016 title animation was designed by Matt McDonald.  The mid-2016 theme music was composed and created by Mark Lentczner (https://soundcloud.com/mtnviewmark).",
+    "customUrl": "GoogleTechTalks",
+    "publishedAt": "2007-08-15T23:10:56.000Z",
+    "thumbnails": {
+        "default": {
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDvpc2qzHUYSFFeVMeBA1d7IEq8B8FOJ35_Xg=s88-mo-c-c0xffffffff-rj-k-no",
+            "width": 88,
+            "height": 88
+        },
+        "medium": {
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDvpc2qzHUYSFFeVMeBA1d7IEq8B8FOJ35_Xg=s240-mo-c-c0xffffffff-rj-k-no",
+            "width": 240,
+            "height": 240
+        },
+        "high": {
+            "url": "https://yt3.ggpht.com/a-/AAuE7mDvpc2qzHUYSFFeVMeBA1d7IEq8B8FOJ35_Xg=s800-mo-c-c0xffffffff-rj-k-no",
+            "width": 800,
+            "height": 800
+        }
+    },
+    "contentDetails": {
+        "relatedPlaylists": {
+            "uploads": "UUtXKDgv1AVoG88PLl8nGXmw",
+            "watchHistory": "HL",
+            "watchLater": "WL"
+        }
+    },
+    "statistics": {
+        "viewCount": "47180523",
+        "commentCount": "0",
+        "subscriberCount": "304776",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2059"
+    }
+}
