@@ -4,7 +4,7 @@
   "description": "React/Redux interface to my spydr feeds",
   "main": "index.js",
   "scripts": {
-    "start-dev": "webpack-dev-server --allow-file-access-from-files --inline --hot --history-api-fallback --host localhost --port 8080 --open",
+    "start-dev": "webpack-dev-server --allow-file-access-from-files --inline --hot --history-api-fallback --host localhost --port 7070 --open",
     "build-dev": "webpack --config webpack.dev.config.js",
     "build-prod": "webpack -p --config webpack.prod.config.js",
     "lint": "./node_modules/.bin/eslint src/**/*.js --ignore-pattern node_modules/",

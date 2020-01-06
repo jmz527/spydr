@@ -45,7 +45,7 @@ services:
       - api
       - postgres
     environment:
-      SPYDR_API: http://api:8000
+      SPYDR_API: http://0.0.0.0:8000
       NODE_ENV: production
       PORT: 7070
     ports:
