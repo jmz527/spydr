@@ -2,6 +2,7 @@
 
 module.exports = {
   "development": {
+    "use_env_variable": "postgres://postgres@postgres:5432/postgres",
     "username": "postgres",
     "password": null,
     "database": "postgres",
@@ -12,6 +13,7 @@ module.exports = {
     "operatorsAliases": "Sequelize.Op"
   },
   "test": {
+    "use_env_variable": "postgres://postgres@postgres:5432/postgres",
     "username": "postgres",
     "password": null,
     "database": "postgres",
@@ -22,6 +24,7 @@ module.exports = {
     "operatorsAliases": "Sequelize.Op"
   },
   "production": {
+    "use_env_variable": "postgres://postgres@postgres:5432/postgres",
     "username": "postgres",
     "password": null,
     "database": "postgres",
