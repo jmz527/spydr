@@ -1,0 +1,46 @@
+
+body {}
+
+header {
+	border-bottom: 1px solid #e8e8e8;
+	height: 30px;
+	line-height: 30px;
+	margin: 7px 0 0;
+	padding: 0 30px 8px;
+}
+
+header a.logo {
+	float: left;
+	width: 119px;
+	height: inherit;
+}
+
+header img {
+	position: relative;
+	display: inline-block;
+	height: inherit;
+}
+
+header h1 {
+	display: inline-block;
+	text-align: center;
+}
+
+footer {
+	border-top: 1px solid #e8e8e8;
+	height: 50px;
+	line-height: 50px;
+	margin: 10px 0 0;
+	padding: 0 30px 10px;
+}
+
+a.root { float: right; }
+
+ul.igrms-list {
+	margin: 0 20px;
+	padding: 20px 0;
+}
+
+li.igrms-list-item {
+	display: inline-block;
+}

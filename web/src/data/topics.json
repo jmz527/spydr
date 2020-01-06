@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "id": "rendering",
+      "title": "Rendering with React"
+    },
+    {
+      "id": "components",
+      "title": "Components"
+    },
+    {
+      "id": "props-v-state",
+      "title": "Props v. State"
+    }
+  ]
+}

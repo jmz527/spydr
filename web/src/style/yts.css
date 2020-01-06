@@ -1,0 +1,89 @@
+
+body {}
+
+header {
+	border-bottom: 1px solid #e8e8e8;
+	height: 30px;
+	line-height: 30px;
+	margin: 7px 0 0;
+	padding: 0 30px 8px;
+}
+
+header a.logo {
+	float: left;
+	width: 119px;
+	height: inherit;
+}
+
+header img {
+	position: relative;
+	display: inline-block;
+	height: inherit;
+}
+
+header h1 {
+	display: inline-block;
+	text-align: center;
+}
+
+footer {
+	border-top: 1px solid #e8e8e8;
+	height: 50px;
+	line-height: 50px;
+	margin: 10px 0 0;
+	padding: 0 30px 10px;
+}
+
+a.root { float: right; }
+
+.yts-list {
+	margin: 14px 0 30px;
+	padding: 0 30px;
+	list-style-type: none;
+}
+
+.yts-list-item {
+	padding: 5px 0;
+}
+
+.title {}
+
+.stats {}
+
+.duration {
+	display: inline-block;
+	margin: 0 10px;
+	width: 250px;
+}
+
+
+.vid-wrap { display: none; }
+.vid-wrap.active { display: inherit; }
+.vid-wrap.empty { display: none; }
+
+
+.views {
+	display: inline-block;
+	margin: 0 10px;
+	width: 150px;
+}
+
+.active {
+	display: inline-block;
+	margin: 0 10px;
+	width: 100px;
+	/*float: right;*/
+}
+
+.watched {
+	display: inline-block;
+	margin: 0 10px;
+	width: 120px;
+	/*float: right;*/
+}
+
+.active-btn-true { background-color: lightgreen; }
+.active-btn-false { background-color: red; }
+	
+.watched-btn-true { background-color: lightgreen; }
+.watched-btn-false { background-color: red; }
