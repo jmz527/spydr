@@ -1,0 +1,26 @@
+{
+  "name": "spydr_mirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "spydr": "./bin/.spydr.bash",
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.2",
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^6.2.0",
+    "repl-promised": "^0.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}

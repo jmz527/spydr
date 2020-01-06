@@ -1,0 +1,578 @@
+{
+    "log": [
+        {
+            "timestamp": "2019-11-25T05:31:38.215Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCVTyTA7-g9nopHeHbeuvpRA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:37.112Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwez9XDNV_wS0WNDZteXjgw&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:35.991Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCJa04c1KoMuti02B5Ji38kQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:34.890Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCxqAWLTk1CmBvZFPzeZMd9A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:33.772Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCIA9jUDnKVMYc4SmqTxcwqg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:32.655Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCFKE7WVJfvaHW5q283SxchA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:31.537Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC3XTzVzaHQEd30rQbuvCtTQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:30.411Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCoxcjq-8xIDTYp3uz647V5A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-25T05:31:13.686Z",
+            "message": "Request failed with status code 400",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:57.143Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCVTyTA7-g9nopHeHbeuvpRA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:56.008Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwez9XDNV_wS0WNDZteXjgw&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:54.868Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCJa04c1KoMuti02B5Ji38kQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:52.418Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCIA9jUDnKVMYc4SmqTxcwqg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:49.808Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC3XTzVzaHQEd30rQbuvCtTQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:45.803Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCsXVk37bltHxD1rDPwtNM8Q&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:44.613Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCO1cgjhGzsSYb1rsB4bFe4Q&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:39.130Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC9-y-6csu5WGm29I7JiwpnA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-22T00:32:37.952Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCMtFAi84ehTSYSE9XoHefig&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:40.048Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCVTyTA7-g9nopHeHbeuvpRA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:38.935Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwez9XDNV_wS0WNDZteXjgw&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:37.811Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCJa04c1KoMuti02B5Ji38kQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:36.676Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCxqAWLTk1CmBvZFPzeZMd9A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:35.557Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCIA9jUDnKVMYc4SmqTxcwqg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:34.439Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCFKE7WVJfvaHW5q283SxchA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:33.312Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC3XTzVzaHQEd30rQbuvCtTQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:32.205Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCoxcjq-8xIDTYp3uz647V5A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:31.070Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCi8e0iOVk1fEOogdfu4YgfA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-19T05:28:29.835Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCsXVk37bltHxD1rDPwtNM8Q&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:41.233Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCVTyTA7-g9nopHeHbeuvpRA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:40.117Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwez9XDNV_wS0WNDZteXjgw&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:38.985Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCJa04c1KoMuti02B5Ji38kQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:37.575Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCxqAWLTk1CmBvZFPzeZMd9A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:36.454Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCIA9jUDnKVMYc4SmqTxcwqg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:35.328Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCFKE7WVJfvaHW5q283SxchA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:34.208Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC3XTzVzaHQEd30rQbuvCtTQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-18T02:44:32.798Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCoxcjq-8xIDTYp3uz647V5A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:55:04.815Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCVTyTA7-g9nopHeHbeuvpRA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:55:03.663Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwez9XDNV_wS0WNDZteXjgw&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:55:02.555Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCJa04c1KoMuti02B5Ji38kQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:55:01.111Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCxqAWLTk1CmBvZFPzeZMd9A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:55:00.000Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCIA9jUDnKVMYc4SmqTxcwqg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:58.875Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCFKE7WVJfvaHW5q283SxchA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:57.769Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC3XTzVzaHQEd30rQbuvCtTQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:56.654Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCoxcjq-8xIDTYp3uz647V5A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:55.541Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCi8e0iOVk1fEOogdfu4YgfA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:54.412Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCsXVk37bltHxD1rDPwtNM8Q&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:53.282Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCO1cgjhGzsSYb1rsB4bFe4Q&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:52.180Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwWhs_6x42TyRM4Wstoq8HA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:51.067Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCi7GJNg51C3jgmYTUwqoUXA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:49.956Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC9-y-6csu5WGm29I7JiwpnA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:48.849Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCMtFAi84ehTSYSE9XoHefig&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:47.716Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC2C_jShtL725hvbm1arSV9w&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-11-15T05:54:46.555Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCveZqqGewoyPiacooywP5Ig&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-07-15T23:50:42.313Z",
+            "message": "connect ECONNREFUSED 172.217.9.42:443",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCveZqqGewoyPiacooywP5Ig&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:20.904Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCVTyTA7-g9nopHeHbeuvpRA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:19.754Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCqFzWxSCi39LnW1JKFR3efg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:18.614Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC8-Th83bH_thdKZDJCrn88g&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:17.463Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCwez9XDNV_wS0WNDZteXjgw&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:16.304Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCJa04c1KoMuti02B5Ji38kQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:15.184Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCxqAWLTk1CmBvZFPzeZMd9A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:14.043Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCIA9jUDnKVMYc4SmqTxcwqg&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:12.904Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCFKE7WVJfvaHW5q283SxchA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:11.737Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC3XTzVzaHQEd30rQbuvCtTQ&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:10.519Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCoxcjq-8xIDTYp3uz647V5A&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:09.353Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCi8e0iOVk1fEOogdfu4YgfA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-15T04:05:08.194Z",
+            "message": "Request failed with status code 403",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCsXVk37bltHxD1rDPwtNM8Q&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-06-06T16:01:10.400Z",
+            "message": "Client network socket disconnected before secure TLS connection was established",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC9-y-6csu5WGm29I7JiwpnA&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-16T03:55:58.495Z",
+            "message": "Request failed with status code 400",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-11T18:16:13.559Z",
+            "message": "user is not defined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-11T18:13:54.084Z",
+            "message": "Cannot read property 'forEach' of undefined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-07T19:22:44.154Z",
+            "message": "getaddrinfo ENOTFOUND www.googleapis.com www.googleapis.com:443",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCMtFAi84ehTSYSE9XoHefig&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-07T19:22:43.128Z",
+            "message": "getaddrinfo ENOTFOUND www.googleapis.com www.googleapis.com:443",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UC2C_jShtL725hvbm1arSV9w&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-07T19:22:42.072Z",
+            "message": "getaddrinfo ENOTFOUND www.googleapis.com www.googleapis.com:443",
+            "method": "get",
+            "endpointHit": "https://www.googleapis.com/youtube/v3/search/?key=AIzaSyATnA8iySFAP1TKtLcdcqHgGyM7G9Zpj7c&channelId=UCveZqqGewoyPiacooywP5Ig&part=snippet%2Cid&type=video&order=date&maxResults=50",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T03:38:02.845Z",
+            "message": "username is not defined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json?count=50&after=t3_bihb5x",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T03:05:39.077Z",
+            "message": "Cannot read property 'split' of undefined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T02:53:31.739Z",
+            "message": "Cannot read property '0' of undefined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T02:50:48.488Z",
+            "message": "Cannot read property 'length' of undefined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T02:42:45.029Z",
+            "message": "Converting circular structure to JSON",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted.json",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T02:30:43.020Z",
+            "message": "Cannot read property 'attr' of undefined",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-05-04T02:28:13.684Z",
+            "message": "Converting circular structure to JSON",
+            "method": "get",
+            "endpointHit": "https://www.reddit.com/user/james527/upvoted",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-04-18T22:39:09.638Z",
+            "message": "connect ECONNREFUSED 127.0.0.1:8000",
+            "method": "get",
+            "endpointHit": "http://localhost:8000/api/yts/bd53c0c3-c3e0-4f45-aa3b-4413a2513092/video",
+            "axiosDefaultConfig": null
+        },
+        {
+            "timestamp": "2019-04-18T22:38:33.374Z",
+            "message": "connect ECONNREFUSED 127.0.0.1:8000",
+            "method": "get",
+            "endpointHit": "http://localhost:8000/api/yts/bd53c0c3-c3e0-4f45-aa3b-4413a2513092",
+            "axiosDefaultConfig": null
+        }
+    ]
+}
