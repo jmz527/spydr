@@ -1,0 +1,25 @@
+version: '3'
+services:
+  postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: postgres
+  api:
+    build:
+      context: ./api
+    command: ["node", "./build/index.js"]
+    depends_on:
+      - postgres
+    environment:
+      DATABASE_URL: postgres://postgres@postgres:5432/postgres
+      NODE_ENV: production
+      PORT: 8000
+    ports:
+      - "8000:8000"
+    tty: true
+    volumes:
+      - ./api/server:/api/server
+      - /api/node_modules
