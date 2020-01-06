@@ -6,6 +6,7 @@ RUN mkdir -p ./api
 WORKDIR ./api
 
 COPY ./package.json .
+COPY ./package-lock.json .
 
 RUN npm i --no-cache
 
