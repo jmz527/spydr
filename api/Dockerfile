@@ -2,8 +2,8 @@ FROM node:12
 
 ENV PORT=8000
 
-RUN mkdir -p ./spydr_cli
-WORKDIR ./spydr_cli
+RUN mkdir -p ./api
+WORKDIR ./api
 
 COPY ./package.json .
 
