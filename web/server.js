@@ -5,7 +5,7 @@ var path = require('path');
 var historyApiFallback = require('connect-history-api-fallback');
 
 // all environments
-server.set('port', process.env.PORT || 8080);
+server.set('port', process.env.PORT || 7070);
 
 // Serve static assets normally
 server.use(express.static(path.resolve(__dirname, 'build')));

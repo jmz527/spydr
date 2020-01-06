@@ -37,3 +37,20 @@ services:
   #     NODE_ENV: production
   #   ports:
   #     - "5555:5555"
+  web:
+    build:
+      context: ./web
+    command: ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --history-api-fallback --host 0.0.0.0 --port 7070 --open
+    depends_on:
+      - api
+      - postgres
+    environment:
+      SPYDR_API: http://api:8000
+      NODE_ENV: production
+      PORT: 7070
+    ports:
+      - "7070:7070"
+    tty: true
+    volumes:
+      - ./web/src:/web/src
+      - /web/node_modules
