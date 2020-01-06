@@ -2,6 +2,8 @@ version: '3'
 services:
   postgres:
     image: postgres
+    volumes:
+      - ./db/spydr.sql:/docker-entrypoint-initdb.d/10-spydr.sql
     ports:
       - "5432:5432"
     environment:
