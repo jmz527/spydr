@@ -25,14 +25,15 @@ services:
     volumes:
       - ./api/server:/api/server
       - /api/node_modules
-  cli:
-    build:
-      context: ./cli
-    command: node --harmony index.js
-    depends_on:
-      - api
-    environment:
-      DATABASE_URL: postgres://postgres@postgres:5432/postgres
-      NODE_ENV: production
-    ports:
-      - "5555:5555"
+  # cli:
+  #   build:
+  #     context: ./cli
+  #   command: node --harmony index.js
+  #   depends_on:
+  #     - api
+  #   environment:
+  #     DATABASE_URL: postgres://postgres@postgres:5432/postgres
+  #     SPYDR_API: http://api:8000
+  #     NODE_ENV: production
+  #   ports:
+  #     - "5555:5555"

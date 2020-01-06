@@ -4,6 +4,7 @@ const igrm_collector = require('./igrm_collector');
 const rdt_collector = require('./rdt_collector');
 const yts_collector = require('./yts_collector');
 const isOnline = () => {
+  console.log(`testing out the api: ${process.env.SPYDR_API}`);
   return axios.get(`${process.env.SPYDR_API}`).then(payload => {
     let result;
 
