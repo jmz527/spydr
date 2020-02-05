@@ -4,7 +4,7 @@ import { withRouter } from 'react-router-dom';
 
 // Custom Imports
 import BuggyCounter from '~/components/BuggyCounter';
-import ErrorBoundary from '~/hoc/ErrorBoundary';
+import ErrorBoundary from '~/components/ErrorBoundary';
 
 // Style Imports
 // import './index.scss';

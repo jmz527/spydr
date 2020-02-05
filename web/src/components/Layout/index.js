@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 // Custom Imports
-import Aux from '~/hoc/Aux';
+import Aux from '~/components/Aux';
 import Navigation from '~/components/Navigation';
 import './index.scss';
 

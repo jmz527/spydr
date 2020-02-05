@@ -4,8 +4,8 @@ import { Route, Switch } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 // Custom Imports
-import Layout from '~/hoc/Layout';
-// import PrivateRoute from '~/hoc/PrivateRoute';
+import Layout from '~/components/Layout';
+// import PrivateRoute from '~/components/PrivateRoute';
 
 // Page Imports
 import SandboxPage from '~/components/pages/sandbox';
