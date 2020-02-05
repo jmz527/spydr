@@ -7,7 +7,6 @@ module.exports.mode = 'production';
 
 // disable the hot reload
 module.exports.entry = [
-  '@babel/polyfill',
   __dirname + '/src/index.js'
 ];
 
