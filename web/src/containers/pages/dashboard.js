@@ -2,7 +2,7 @@
 import { connect } from 'react-redux';
 
 // Custom Imports
-import HomePage from '~/components/pages/home';
+import DashboardPage from '~/components/pages/dashboard';
 import * as actionCreators from '~/store/actions';
 
 const mapStateToProps = (state) => {
@@ -25,4 +25,4 @@ const mapDispatchToProps = (dispatch) => {
   };
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(HomePage);
+export default connect(mapStateToProps, mapDispatchToProps)(DashboardPage);

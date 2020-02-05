@@ -28,8 +28,8 @@ describe('<Navigation />', () => {
     expect(wrapper.find(Link)).toHaveLength(4);
   });
 
-  it('should render a Home <Link />', () => {
-    expect(wrapper.find(Link).filter({to: '/'}).text()).toEqual('Home');
+  it('should render a Dashboard <Link />', () => {
+    expect(wrapper.find(Link).filter({to: '/'}).text()).toEqual('Dashboard');
   });
 
   it('should render a Instagram <Link />', () => {

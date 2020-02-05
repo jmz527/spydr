@@ -11,7 +11,7 @@ import Layout from '~/components/Layout';
 import SandboxPage from '~/components/pages/sandbox';
 
 // Container Imports
-import HomePage from '~/containers/pages/home';
+import DashboardPage from '~/containers/pages/dashboard';
 import InstagramPage from '~/containers/pages/instagram';
 import InstagramUser from '~/containers/pages/instagram_users';
 import RedditPage from '~/containers/pages/reddit';
@@ -26,7 +26,7 @@ const app = (props) => (
   <div className='app'>
     <Layout {...props}>
       <Switch>
-        <Route exact path='/' component={HomePage}/>
+        <Route exact path='/' component={DashboardPage}/>
         <Route exact path='/instagram' component={InstagramPage}/>
         <Route path='/instagram/:userId' component={InstagramUser}/>
         <Route exact path='/reddit' component={RedditPage}/>

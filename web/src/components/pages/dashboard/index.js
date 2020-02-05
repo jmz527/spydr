@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 // Custom Imports
 // import './index.scss';
 
-class HomePage extends Component {
+class DashboardPage extends Component {
   componentDidMount() {
     this.props.fetchIgrmUsers();
     this.props.fetchRdtUsers();
@@ -14,7 +14,7 @@ class HomePage extends Component {
   }
   render() {
     return (
-      <div className='homePage'>
+      <div className='dashboardPage'>
 
         <h3><Link to='/instagram'>Instagram</Link></h3>
 
@@ -50,7 +50,7 @@ class HomePage extends Component {
     );
   }
 }
-HomePage.propTypes = {
+DashboardPage.propTypes = {
   fetching: PropTypes.bool,
   fetchIgrmUsers: PropTypes.any,
   fetchRdtUsers: PropTypes.any,
@@ -63,4 +63,4 @@ HomePage.propTypes = {
   youtube_dict: PropTypes.any,
 };
 
-export default withRouter(HomePage);
+export default withRouter(DashboardPage);

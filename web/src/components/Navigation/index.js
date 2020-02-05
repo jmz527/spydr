@@ -9,7 +9,7 @@ const navigation = () => (
   <div className='navigation'>
     <ul>
       <li>
-        <Link to='/'>Home</Link>
+        <Link to='/'>Dashboard</Link>
       </li>
       <li>
         <Link to='/instagram'>Instagram</Link>
