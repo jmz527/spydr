@@ -20,7 +20,7 @@
     "axios": "^0.18.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "pg": "^7.8.0",
     "pg-hstore": "^2.3.2",
